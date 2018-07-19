@@ -1,0 +1,12 @@
+PODS:
+  - CryptoSwift (0.5.2)
+
+DEPENDENCIES:
+  - CryptoSwift (= 0.5.2)
+
+SPEC CHECKSUMS:
+  CryptoSwift: c1ef79f901b86099a6fe8b3c7524cf9f3f3c8c40
+
+PODFILE CHECKSUM: aea72a60c1703f0d3b741ced62ce0f6a1d7da3c8
+
+COCOAPODS: 1.4.0
